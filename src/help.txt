@@ -1,0 +1,12 @@
+  <BrowserRouter>
+        
+        <NavLink to="/Home">Home</NavLink>
+        <NavLink to="/Home">Home</NavLink>
+        <NavLink to="/Home">Home</NavLink>
+        <Routes>
+          <Route element={<Login />} excat path="Login" />
+          <Route element={<Home />} excat path="Home" />
+        </Routes>
+      </BrowserRouter>
+
+#ec6f66 #f3a183

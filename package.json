@@ -1,0 +1,66 @@
+{
+  "name": "anikumar",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.16",
+    "@mui/material": "^5.10.17",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "@passageidentity/passage-auth": "^0.1.0-beta.27",
+    "@passageidentity/passage-elements": "^0.1.0-beta.58",
+    "@react-spring/web": "^9.6.1",
+    "@splinetool/react-spline": "^2.2.3",
+    "@splinetool/runtime": "^0.9.135",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "kmenu": "^1.2.1-dev",
+    "next-themes": "^0.2.1",
+    "react": "^18.2.0",
+    "react-3d-viewer": "^1.0.12",
+    "react-aiwriter": "^1.0.0",
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "^18.2.0",
+    "react-interactive-blob": "^0.0.1",
+    "react-loading-skeleton": "^3.1.0",
+    "react-particle-image": "^1.0.2",
+    "react-particles": "^2.5.1",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "5.0.1",
+    "react-simple-typewriter": "^5.0.1",
+    "react-typewriter-effect": "^1.1.0",
+    "tsparticles": "^2.5.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  }
+}
